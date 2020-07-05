@@ -36,3 +36,5 @@
 *** https://www.commitstrip.com/en/feed/
 *** http://feeds.penny-arcade.com/pa-mainsite
 *** https://www.smbc-comics.com/comic/rss
+** Twitter :twitter:
+*** https://rss.app/feeds/GW1S457jiuc9uvQe.xml
