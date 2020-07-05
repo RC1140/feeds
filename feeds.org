@@ -1,0 +1,38 @@
+* Blogs                                                              :elfeed:
+** entry-title: \(linux\|linus\|ubuntu\|kde\|gnome\)                  :linux:
+** Software Development                                                 :dev:
+** Infosec                                                          :infosec:
+*** https://leonjza.github.io/index.xml
+*** http://feeds.feedburner.com/KrebsOnSecurity
+*** https://blog.sensepost.com/?feed=rss2
+*** http://andrewmohawk.com/feed/
+*** https://www.darknet.org.uk/feed/
+*** https://j00ru.vexillium.org/?feed=rss2
+** Tech                                                             :tech:
+*** http://feeds.arstechnica.com/arstechnica/index/
+*** https://fabiensanglard.net/rss.xml
+*** http://www.daemonology.net/hn-daily/index.rss
+*** https://jvns.ca/atom.xml
+*** http://feeds.feedburner.com/wekeroad/EeKc
+*** https://rubenerd.com/feed/
+*** https://lcamtuf.blogspot.com/feeds/posts/default?alt=rss
+*** http://blog.golang.org/feeds/posts/default?alt=rss
+** Hackery                                                              :hackery:
+*** https://hackaday.com/blog/feed/
+*** http://www.hypn.za.net/blog/feed/
+*** https://www.offensiveosint.io/rss/
+*** https://blog.thinkst.com/feeds/posts/default?alt=rss
+*** http://feeds.hanselman.com/ScottHanselman
+*** http://feeds.haacked.com/haacked
+** Gaming                                                            :gaming:
+*** http://feeds.feedburner.com/co/DqNT?format=xml
+*** http://feeds.feedburner.com/RockPaperShotgun
+*** http://shoryuken.com/feed/
+** Personal  :personal:
+*** https://caffeinatedelfling.wordpress.com/feed/
+*** https://blog.trainerroad.com/feed/
+*** https://www.pinkbike.com/pinkbike_xml_feed.php
+** Comics :comics:
+*** https://www.commitstrip.com/en/feed/
+*** http://feeds.penny-arcade.com/pa-mainsite
+*** https://www.smbc-comics.com/comic/rss
